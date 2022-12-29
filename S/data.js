@@ -1,0 +1,1 @@
+export const TodoList = [{ todo: "ESSEN KAUFEN"}] 
